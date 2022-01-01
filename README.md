@@ -1,14 +1,34 @@
-# edin_applied_machine_learing
-
-notebooks with the most important machine learing algorithms.
-supervised learing
-* kNN
-* SVM
-unsupervised learing
-* k-mans
-
-
 # Introductory applied machine learning (INFR10069/11152/11182)
+
+This repository contains all exercises of the course **Introductory applied machine learning**.
+The notebooks are designed for learning and appling the core of the *Data Science Life Cycle* process. In particular each of the notebooks goes through the following steps:
+
+1. Exploritory Data Analysis
+2. Data cleaning
+3. Model building
+4. Model evaluation
+
+The following machine learing algorithms are being used:
+
+**Supervised learing**
+1. Classification
+* Naive Bayes
+* Logistic regression
+* K-Nearest neighbours (K-NN)
+* Random forest classifier
+* Support vector machines (SVM)
+* Neural Networks (NN)
+2. Regression
+* Linear Regression
+* Multivariate linear regression
+
+**Unsupervised learing**
+* K-Means
+
+**Dimensionality reduction**
+* Principal component analysis (PCA)
+
+## Installation instructions
 
 These instructions are written for set up on a Unix environment.
 
